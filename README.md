@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhay</h1>
-<h3 align="right">I'm a Computer Engineering student with a strong interest in CyberSecurity, Machine Learning, Software Development, and Open Source. I'm constantly exploring cutting-edge technologies like deep learning and many more to keep learning and keep improving.</h3>
+<h3 align="center">I'm a Computer Engineering student with a strong interest in CyberSecurity, Machine Learning, Software Development, and Open Source. I'm constantly exploring cutting-edge technologies like deep learning and many more to keep learning and keep improving.</h3>
 
 
 
